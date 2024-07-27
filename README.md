@@ -38,5 +38,4 @@ To use this hash table implementation, you can compile the provided source files
 
 After compiling, you can run the example program that demonstrates the hash table operations:
 
-    ```bash
     ./hash
