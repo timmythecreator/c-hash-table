@@ -11,7 +11,7 @@ This project is an implementation of a simple hash table in the C programming la
 
 ## Requirements:
 
-- **gcc**
+- **gcc**: to compile the project
 
 ## Usage
 
@@ -38,5 +38,5 @@ To use this hash table implementation, you can compile the provided source files
 
 After compiling, you can run the example program that demonstrates the hash table operations:
 
-    ```bash:
+    ```bash
     ./hash
